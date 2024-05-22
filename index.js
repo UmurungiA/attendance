@@ -11,10 +11,10 @@ const port = 4000; // Adjust port number as needed
 
 // Database credentials
 const pool = mysql.createPool({
-  host: 'bxrsxblwjpsuw7nuynet-mysql.services.clever-cloud.com',
-  user: 'ufmrgtthzgsjw0ge',
-  password: 'Yl00kMvk7PZOEga2gMBK',
-  database: 'bxrsxblwjpsuw7nuynet'
+  host: 'bollbmeeuzqwjrkdwyu9-mysql.services.clever-cloud.com',
+  user: 'ugsakwul7fpgtick',
+  password: 'nKxm2YSObsilUqKZbqpE',
+  database: 'bollbmeeuzqwjrkdwyu9'
 });
 
 // Middleware to verify token
